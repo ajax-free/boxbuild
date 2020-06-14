@@ -1,3 +1,4 @@
+<!-- комментарий в index.html -->
 <!DOCTYPE html>
 <html lang="ru">
   <head>
